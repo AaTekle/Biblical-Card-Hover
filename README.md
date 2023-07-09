@@ -14,7 +14,7 @@ Jeremiah's Image : https://en.wikipedia.org/wiki/Jeremiah#/media/File:SA_160-Jer
 
 
 
-Biblical Links : 
+# Biblical Links : 
 
 https://www.biblegateway.com/passage/?search=Exodus%202&version=NASB
 
