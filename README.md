@@ -13,6 +13,7 @@ Joshua's Image : https://i.pinimg.com/originals/19/96/91/1996911ae27d463a3a69280
 Jeremiah's Image : https://en.wikipedia.org/wiki/Jeremiah#/media/File:SA_160-Jeremia_op_de_puinhopen_van_Jeruzalem.jpg
 
 
+
 Biblical Links : 
 
 https://www.biblegateway.com/passage/?search=Exodus%202&version=NASB
