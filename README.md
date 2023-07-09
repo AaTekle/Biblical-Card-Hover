@@ -4,7 +4,7 @@ Webpage Link :
 
 I did fork this off of a Open Source Codepen,
 
-Sources of Images: 
+# Sources of Images: 
 
 Moses's Image : https://upload.wikimedia.org/wikipedia/commons/1/14/Guido_Reni_-_Moses_with_the_Tables_of_the_Law_-_WGA19289.jpg
 
