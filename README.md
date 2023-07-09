@@ -2,7 +2,7 @@ Biblical CARD HOVER webpage,
 
 # Webpage Link : 
 
-I did fork this off of a Open Source Codepen,
+I did fork this off of a Open Source Codepen, did this out of honor for the men of God.
 
 # Sources of Images: 
 
